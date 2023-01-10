@@ -6,6 +6,11 @@
 			"skills" :
 			[
 				{
+					"name": "Python",
+					"logo": "resources/shapes/skills/Python.svg",
+					"link": "https://www.python.org/"
+				},
+				{
 					"name": "C",
 					"logo": "resources/shapes/skills/C.svg",
 					"link": "https://en.wikipedia.org/wiki/C_(programming_language)"
@@ -16,29 +21,25 @@
 					"link": "https://en.wikipedia.org/wiki/C%2B%2B"
 				},
 				{
-					"name": "Java",
-					"logo": "resources/shapes/skills/Java.svg",
-					"link": "https://en.wikipedia.org/wiki/Java_(programming_language)"
+					"name": "R",
+					"logo": "resources/images/skills/r.png",
+					"link": "https://en.wikipedia.org/wiki/R_(programming_language)"
 				},
 				{
-					"name": "C#",
-					"logo": "resources/shapes/skills/C_sharp.svg",
-					"link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+					"name": "GitHub Actions",
+					"logo": "resources/images/skills/Github_actions.png",
+					"link": "https://github.com/features/actions"
+				},
+				
+				{
+					"name": "Kubernetes",
+					"logo": "resources/shapes/skills/Kubernetes.svg",
+					"link": "https://kubernetes.io/fr/"
 				},
 				{
-					"name": "Python",
-					"logo": "resources/shapes/skills/Python.svg",
-					"link": "https://www.python.org/"
-				},
-				{
-					"name": "OCaml",
-					"logo": "resources/shapes/skills/OCaml.svg",
-					"link": "https://ocaml.org/index.html"
-				},
-				{
-					"name": "OpenCL",
-					"logo": "resources/shapes/skills/OpenCL.svg",
-					"link": "https://www.khronos.org/opencl/"
+					"name": "Docker",
+					"logo": "resources/shapes/skills/Docker.svg",
+					"link": "https://www.docker.com/"
 				},
 				{
 					"name": "CMake",
@@ -51,245 +52,168 @@
 					"link": "https://git-scm.com/"
 				},
 				{
-					"name": "Unix",
+					"name": "Linux",
 					"logo": "resources/shapes/skills/Unix.svg",
 					"link": "https://en.wikipedia.org/wiki/Unix"
-				}
-			]
-		},
-		{
-			"name" : "Computer Graphics",
-			"skills" :
-			[
-				{
-					"name": "OpenGL",
-					"logo": "resources/shapes/skills/OpenGL.svg",
-					"link": "https://www.opengl.org//"
-				},
-				{
-					"name": "GLSL",
-					"logo": "resources/images/skills/Glsl.png",
-					"link": "https://en.wikipedia.org/wiki/OpenGL_Shading_Language"
-				},
-				{
-					"name": "Unity",
-					"logo": "resources/shapes/skills/Unity.svg",
-					"link": "https://unity.com/"
-				},
-				{
-					"name": "JavaFX",
-					"logo": "resources/shapes/skills/JavaFX.svg",
-					"link": "https://openjfx.io"
-				},
-				{
-					"name": "SFML",
-					"logo": "resources/shapes/skills/Sfml.svg",
-					"link": "https://www.sfml-dev.org/index.php"
-				},
-				{
-					"name": "ImGui",
-					"logo": "resources/shapes/skills/ImGui.svg",
-					"link": "https://github.com/ocornut/imgui"
-				},
-				{
-					"name": "GLM",
-					"logo": "resources/shapes/skills/Glm.svg",
-					"link": "https://glm.g-truc.net/0.9.9/"
-				}
-			]
-		},
-		{
-			"name" : "Front-end Web",
-			"skills" :
-			[
-				{
-					"name": "HTML",
-					"logo": "resources/shapes/skills/Html.svg",
-					"link": "https://en.wikipedia.org/wiki/HTML"
-				},
-				{
-					"name": "CSS",
-					"logo": "resources/shapes/skills/Css.svg",
-					"link": "https://en.wikipedia.org/wiki/CSS"
-				},
-				{
-					"name": "JavaScript",
-					"logo": "resources/shapes/skills/JavaScript.svg",
-					"link": "https://en.wikipedia.org/wiki/JavaScript"
-				},
-				{
-					"name": "TypeScript",
-					"logo": "resources/shapes/skills/TypeScript.svg",
-					"link": "https://www.typescriptlang.org"
-				},
-				{
-					"name": "Svelte",
-					"logo": "resources/shapes/skills/Svelte.svg",
-					"link": "https://svelte.dev/"
-				},
-				{
-					"name": "jQuery",
-					"logo": "resources/shapes/skills/JQuery.svg",
-					"link": "https://jquery.com/"
-				},
-				{
-					"name": "Bootstrap",
-					"logo": "resources/shapes/skills/Bootstrap.svg",
-					"link": "https://getbootstrap.com/"
-				},
-				{
-					"name": "Tailwind",
-					"logo": "resources/shapes/skills/Tailwind.svg",
-					"link": "https://tailwindcss.com/"
-				},
-				{
-					"name": "Vite",
-					"logo": "resources/shapes/skills/Vite.svg",
-					"link": "https://vitejs.dev/"
-				},
-				{
-					"name": "ThreeJS",
-					"logo": "resources/shapes/skills/ThreeJS.svg",
-					"link": "https://threejs.org"
-				},
-				{
-					"name": "AnimeJS",
-					"logo": "resources/images/skills/AnimeJS.png",
-					"link": "https://animejs.com"
-				},
-				{
-					"name": "GreenSock",
-					"logo": "resources/images/skills/GreenSock.png",
-					"link": "https://greensock.com"
-				},
-				{
-					"name": "Git",
-					"logo": "resources/shapes/skills/Git.svg",
-					"link": "https://git-scm.com/"
-				}
-			]
-		},
-		{
-			"name" : "Back-end Web",
-			"skills" :
-			[
-				{
-					"name": "JavaScript",
-					"logo": "resources/shapes/skills/JavaScript.svg",
-					"link": "https://en.wikipedia.org/wiki/JavaScript"
-				},
-				{
-					"name": "TypeScript",
-					"logo": "resources/shapes/skills/TypeScript.svg",
-					"link": "https://www.typescriptlang.org"
-				},
-				{
-					"name": "NodeJS",
-					"logo": "resources/shapes/skills/NodeJS.svg",
-					"link": "https://nodejs.org/en/"
-				},
-				{
-					"name": "ExpressJS",
-					"logo": "resources/images/skills/ExpressJS.png",
-					"link": "http://expressjs.com"
-				},
-				{
-					"name": "C#",
-					"logo": "resources/shapes/skills/C_sharp.svg",
-					"link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
-				},
-				{
-					"name": "Socket.io",
-					"logo": "resources/shapes/skills/Socket_io.svg",
-					"link": "https://socket.io"
 				},
 				{
 					"name": "SQL",
-					"logo": "resources/shapes/skills/Sql.svg",
-					"link": "https://sql.sh"
-				},
-				{
-					"name": "MongoDB",
-					"logo": "resources/shapes/skills/MongoDB.svg",
-					"link": "https://www.mongodb.com"
-				},
-				{
-					"name": "Stripe",
-					"logo": "resources/shapes/skills/Stripe.svg",
-					"link": "https://stripe.com/"
-				},
-				{
-					"name": "Git",
-					"logo": "resources/shapes/skills/Git.svg",
-					"link": "https://git-scm.com/"
+					"logo": "resources/shapes/skills/sql.svg",
+					"link": "https://selenium-python.readthedocs.io/"
 				}
 			]
 		},
 		{
-			"name" : "Design",
+			"name" : "Python librairies",
 			"skills" :
 			[
 				{
-					"name": "After Effects",
-					"logo": "resources/shapes/skills/After_effects.svg",
-					"link": "https://www.adobe.com/products/aftereffects.html"
-				},
-				{
-					"name": "Illustrator",
-					"logo": "resources/shapes/skills/Illustrator.svg",
-					"link": "https://www.adobe.com/products/illustrator.html"
-				},
-				{
-					"name": "Photoshop",
-					"logo": "resources/shapes/skills/Photoshop.svg",
-					"link": "https://www.adobe.com/products/photoshop.html"
-				},
-				{
-					"name": "Figma",
-					"logo": "resources/shapes/skills/Figma.svg",
-					"link": "https://www.figma.com/"
-				},
-				{
-					"name": "SolidWorks",
-					"logo": "resources/images/skills/SolidWorks.png",
-					"link": "https://www.solidworks.com/"
-				}
-			]
-		},
-		{
-			"name" : "Machine Learning",
-			"skills" :
-			[
-				{
-					"name": "Theory",
-					"logo": "resources/shapes/skills/Theory.svg",
-					"link": "https://github.com/angeluriot/Neural_network"
+					"name": "PyTorch",
+					"logo": "resources/shapes/skills/PyTorch.svg",
+					"link": "https://glm.g-truc.net/0.9.9/"
 				},
 				{
 					"name": "Tensorflow",
 					"logo": "resources/shapes/skills/Tensorflow.svg",
-					"link": "https://www.tensorflow.org/"
+					"link": "https://glm.g-truc.net/0.9.9/"
 				},
 				{
-					"name": "Keras",
-					"logo": "resources/shapes/skills/Keras.svg",
-					"link": "https://keras.io/"
+					"name": "OpenCV",
+					"logo": "resources/shapes/skills/OpenCV.svg",
+					"link": "https://opencv.org/"
+				},
+				{
+					"name": "Pandas",
+					"logo": "resources/shapes/skills/Pandas.svg",
+					"link": "https://fr.wikipedia.org/wiki/Pandas"
+				},
+				{
+					"name": "Matplotlib",
+					"logo": "resources/shapes/skills/Matplotlib.svg",
+					"link": "https://unity.com/"
+				},
+				{
+					"name": "Plotly",
+					"logo": "resources/images/skills/plotly.png",
+					"link": "https://openjfx.io"
+				},
+				{
+					"name": "SciPy",
+					"logo": "resources/shapes/skills/scipy.svg",
+					"link": "https://www.sfml-dev.org/index.php"
+				},
+				{
+					"name": "Numpy",
+					"logo": "resources/images/skills/Numpy.png",
+					"link": "https://github.com/ocornut/imgui"
+				},
+				{
+					"name": "Scikit Learn",
+					"logo": "resources/shapes/skills/Scikit_learn.svg",
+					"link": "https://glm.g-truc.net/0.9.9/"
+				},
+				{
+					"name": "PyTest",
+					"logo": "resources/shapes/skills/Pytest.svg",
+					"link": "https://glm.g-truc.net/0.9.9/"
+				},
+				{
+					"name": "Selenium",
+					"logo": "resources/images/skills/Selenium.png",
+					"link": "https://selenium-python.readthedocs.io/"
 				}
 			]
 		},
 		{
-			"name" : "Blockchain",
+			"name" : "Mathematics",
 			"skills" :
 			[
 				{
-					"name": "Solidity",
-					"logo": "resources/shapes/skills/Solidity.svg",
-					"link": "https://soliditylang.org/"
+					"name": "Polynomials",
+					"logo": "resources/shapes/skills/Bernstein_Polynomials.svg",
+					"link": "https://www.udemy.com/course/precalculus-2/"
 				},
 				{
-					"name": "Web3.js",
-					"logo": "resources/images/skills/Web3JS.png",
-					"link": "https://github.com/ChainSafe/web3.js"
+					"name": "Linear Algebra I",
+					"logo": "resources/shapes/skills/LA_1.svg",
+					"link": "https://www.udemy.com/course/linear-algebra-and-geometry-1/"
+				},
+				{
+					"name": "Linear Algebra II",
+					"logo": "resources/shapes/skills/LA_1.svg",
+					"link": "https://www.udemy.com/course/linear-algebra-and-geometry-2/"
+				},
+				{
+					"name": "Linear Algebra III",
+					"logo": "resources/shapes/skills/LA_1.svg",
+					"link": "https://www.udemy.com/course/linear-algebra-and-geometry-3/"
+				},
+				{
+					"name": "Trigonometry",
+					"logo": "resources/shapes/skills/Trigonometry.svg",
+					"link": "https://www.udemy.com/course/precalculus-3/"
+				},
+				{
+					"name": "Calculus I",
+					"logo": "resources/shapes/skills/Lagrange_very_simple.svg",
+					"link": "https://jquery.com/"
+				},
+				{
+					"name": "Calculus II",
+					"logo": "resources/shapes/skills/Lagrange_very_simple.svg",
+					"link": "https://getbootstrap.com/"
+				},
+				{
+					"name": "Calculus III",
+					"logo": "resources/shapes/skills/Lagrange_very_simple.svg",
+					"link": "https://www.udemy.com/course/calculus-3-multivariable-calculus-part-1-of-2/"
+				},
+				{
+					"name": "Optimization",
+					"logo": "resources/shapes/skills/Max_paraboloid.svg",
+					"link": ""
+				},
+				{
+					"name": "Statistics",
+					"logo": "resources/shapes/skills/normal.svg",
+					"link": ""
+				},
+				{
+					"name": "Probability Theory",
+					"logo": "resources/shapes/skills/Pairwise_independent.svg",
+					"link": ""
+				},
+				{
+					"name": "Bayesian Probability",
+					"logo": "resources/images/skills/bayes-formula.png",
+					"link": ""
+				}
+			]
+		},
+		{
+			"name" : "MLOps",
+			"skills" :
+			[
+				{
+					"name": "AWS",
+					"logo": "resources/shapes/skills/Theory.svg",
+					"link": "https://github.com/angeluriot/Neural_network"
+				},
+				{
+					"name": "Neo4J (NoSQL)",
+					"logo": "resources/images/skills/Neo4j.png",
+					"link": "https://github.com/angeluriot/Neural_network"
+				}
+			]
+		},
+		{
+			"name" : "Other",
+			"skills" :
+			[
+				{
+					"name": "Cambridge English test",
+					"logo": "resources/shapes/skills/Theory.svg",
+					"link": "https://github.com/angeluriot/Neural_network"
 				}
 			]
 		}
