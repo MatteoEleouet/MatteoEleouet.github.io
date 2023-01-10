@@ -8,6 +8,7 @@
 <br/>
 
 A website presenting my projects.
+WIP ⚒️
 
 <br/>
 
@@ -19,7 +20,7 @@ A website presenting my projects.
 
 # Access
 
-* The website is online at the address : **[angeluriot.com](https://www.angeluriot.com/)**.
+* The website is online at the address : **[website.com](https://www.website.com/)**.
 
 <br/>
 
