@@ -162,7 +162,7 @@ function projects_events()
 			let featured;
 
 			if (sort_by == 'Default' || sort_by == 'Date')
-				featured = i < 10;
+				featured = i < 10; // indique le nombre de projets à afficher en détaille
 			else
 				featured = project.categories.includes(sort_by);
 

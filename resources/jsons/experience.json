@@ -2,60 +2,35 @@
 	"experience":
 	[
 		{
-			"date": 2022,
-			"type": "Software engineer intern",
-			"title": "Fitthree Pte Ltd",
-			"description": "Design a system that establish optimized delivery routes for the company's drivers based on a list of orders and a set of constraints. The generated routes will be fed to the tracking management system.",
+			"date": "Sep. 2022 - Present",
+			"type": "Computer Vision Researcher Engineer",
+			"title": "Thales Alenia Space",
+			"description": "Apprentice CV Researcher Engineer to image quality. Establish state of the art. GAN, Transformers, attention mechanism. Image restoration. Create special metrics for image quality. During 24 months",
 			"tags":
 			[
-				{ "name": "C#", "url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" },
-				{ "name": "SQL", "url": "https://sql.sh" },
-				{ "name": "jQuery", "url": "https://jquery.com/" },
-				{ "name": "Bootstrap", "url": "https://getbootstrap.com/" }
+				{ "name": "Python", "url": "" },
+				{ "name": "PyTorch", "url": "" },
+				{ "name": "QGIS", "url": "" }
 			],
-			"link": "https://fitthree.com/",
+			"link": "https://www.thalesaleniaspace.com/en",
 			"video": "none",
-			"image": "resources/images/experience/Fitthree.png"
+			"image": "resources/images/experience/tas_green.png"
 		},
 		{
-			"date": 2019,
-			"type": "Developer intern",
-			"title": "C.E.A. Paris-Saclay",
-			"description": "A two months internship at the C.E.A. Paris-Saclay, my assignment was to program a computer simulation predicting the behavior of neutrons in the core of a nuclear reactor.",
+			"date": "Jan. 2022 - Aug. 2022",
+			"type": "Machine Learning Operations apprentice",
+			"title": "AzurIA",
+			"description": "Apprentice MLOps and Sysadmin to develop a hybrid software and hardware cloud infrastructure while respecting best practices in cybersecurity and data preservation. During 8 months",
 			"tags":
 			[
-				{ "name": "C++", "url": "https://en.wikipedia.org/wiki/C%2B%2B" }
+				{ "name": "C++", "url": "https://en.wikipedia.org/wiki/C%2B%2B" },
+				{ "name": "Docker", "url": "" },
+				{ "name": "Kubernetes", "url": "" },
+				{ "name": "Python", "url": "" }
 			],
-			"link": "https://www.cea.fr/english",
+			"link": "https://www.azuria.earth/blog/dernieres-nouvelles-d-azuria-1/azuria-s-agrandit-15",
 			"video": "none",
-			"image": "resources/images/experience/Cea.png"
-		},
-		{
-			"date": 2021,
-			"type": "Research Intern",
-			"title": "C.E.E.S.A.R.",
-			"description": "A one month worker internship where I created a database of autopsy reports and modified high speed crash test footage.",
-			"tags":
-			[
-				{ "name": "After Effects", "url": "https://www.adobe.com/products/aftereffects.html" }
-			],
-			"link": "https://www.ceesar.fr/en/",
-			"video": "none",
-			"image": "resources/images/experience/Ceesar.jpg"
-		},
-		{
-			"date": 2015,
-			"type": "Video producer",
-			"title": "DIMENSION",
-			"description": "I create videos for a popular science program on the Internet called DIMENSION. It's a 5 minutes animated video format where I talk about many topics such as astrophysics, mathematics or computer science.",
-			"tags":
-			[
-				{ "name": "After Effects", "url": "https://www.adobe.com/products/aftereffects.html" },
-				{ "name": "Illustrator", "url": "https://www.adobe.com/products/illustrator.html" }
-			],
-			"link": "https://www.youtube.com/c/DIMENSI0N",
-			"video": "resources/videos/experience/Dimension.mp4",
-			"image": "resources/images/experience/Dimension.png"
+			"image": "resources/shapes/experience/azuria.svg"
 		}
 	]
 }
