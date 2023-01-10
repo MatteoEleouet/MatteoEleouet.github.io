@@ -12,7 +12,7 @@ A website presenting my projects.
 <br/>
 
 <p align="center">
-	<img src="https://github.com/MatteoEleouet/Portfolio/blob/master/resources/images/Social.png" width="700">
+	<img src="https://github.com/MatteoEleouet/portfolio/blob/main/resources/images/Social.png" width="700">
 </p>
 
 <br/>
