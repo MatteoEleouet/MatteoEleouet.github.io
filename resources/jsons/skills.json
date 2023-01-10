@@ -58,7 +58,7 @@
 				},
 				{
 					"name": "SQL",
-					"logo": "resources/shapes/skills/sql.svg",
+					"logo": "resources/shapes/skills/Sql.svg",
 					"link": "https://selenium-python.readthedocs.io/"
 				}
 			]
