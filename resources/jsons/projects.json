@@ -2,27 +2,25 @@
 	"projects":
 	[
 		{
-			"date": 2021,
-			"type": "School Project",
-			"title": "Hexawar.io",
-			"description": "It's a massively multiplayer browse game, it takes up the concept of .io games: everyone plays on a large map and the goal is to to be the first of the global ranking...",
+			"date": 2023,
+			"type": "Blog post",
+			"title": "Résolution de 2023",
+			"description": "Voici mes résolution pour l'année 2023, je vous souhaite à tous une bonne année !",
 			"tags":
 			[
-				{ "name": "TypeScript", "url": "https://www.typescriptlang.org/" },
-				{ "name": "NodeJS", "url": "https://nodejs.org/en/" },
-				{ "name": "Socket.io", "url": "https://socket.io/" },
-				{ "name": "MongoDB", "url": "https://www.mongodb.com/" }
+				{ "name": "Notion", "url": "" },
+				{ "name": "Blog", "url": "" }
 			],
 			"links":
 			[
-				"https://hexawar.io/",
-				"https://github.com/angeluriot/Hexawar.io",
-				"https://hexawar.io/"
+				"https://matteoeleouet.notion.site/R-solution-de-2023-91001b8ad05c44d4bc90f20d3d4219c5",
+				"none",
+				"none"
 			],
-			"video": "resources/videos/projects/Hexawar_io.mp4",
-			"image": "resources/images/projects/Hexawar_io.png",
-			"logo": "resources/shapes/projects/Hexawar_io.svg",
-			"categories": ["School", "Maths"]
+			"video": "none",
+			"image": "resources/images/blog/2023.png",
+			"logo": "resources/shapes/projects/goal.svg",
+			"categories": ["Blog post"]
 		}
 	]
 }
