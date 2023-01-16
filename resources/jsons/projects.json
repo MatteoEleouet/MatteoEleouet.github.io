@@ -3,6 +3,27 @@
 	[
 		{
 			"date": 2023,
+			"type": "Machine Learning",
+			"title": "Un GAN sur le dataset MNIST",
+			"description": "Petit code sur le dataset MNIST avec un simple GAN avec le framework PyTorch.",
+			"tags":
+			[
+				{ "name": "PyTorch", "url": "https://pytorch.org/" },
+				{ "name": "Python", "url": "https://www.python.org/" }
+			],
+			"links":
+			[
+				"",
+				"none",
+				"none"
+			],
+			"video": "resources/videos/projects/gan.mp4",
+			"image": "resources/images/projects/2D_fractals_generator.png",
+			"logo": "resources/shapes/projects/2D_fractals_generator.svg",
+			"categories": ["Blog post"]
+		},
+		{
+			"date": 2023,
 			"type": "Blog post",
 			"title": "Résolution de 2023",
 			"description": "Voici mes résolution pour l'année 2023, je vous souhaite à tous une bonne année !",
