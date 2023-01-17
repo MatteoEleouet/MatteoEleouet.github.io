@@ -11,16 +11,16 @@
 				{ "name": "PyTorch", "url": "https://pytorch.org/" },
 				{ "name": "Python", "url": "https://www.python.org/" }
 			],
-			"links":
+			"links": 
 			[
-				"",
-				"none",
+				"https://github.com/MatteoEleouet/simple-gan",
+				"https://github.com/MatteoEleouet/simple-gan",
 				"none"
 			],
 			"video": "resources/videos/projects/gan.mp4",
 			"image": "resources/images/projects/2D_fractals_generator.png",
-			"logo": "resources/shapes/projects/2D_fractals_generator.svg",
-			"categories": ["Blog post"]
+			"logo": "resources/shapes/projects/man_brain_nn.svg",
+			"categories": ["Machine Learning"]
 		},
 		{
 			"date": 2023,
