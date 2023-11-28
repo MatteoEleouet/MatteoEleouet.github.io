@@ -3,6 +3,28 @@
 	[
 		{
 			"date": 2023,
+			"type": "Blog post",
+			"title": "Le Deep Learning une introduction.",
+			"description": "Mon eBook sur le Deep Learning, en cours d'écriture, vous pouvez le début de son avancement disponible sur GitHub et téléchargeable en PDF.",
+			"tags":
+			[
+				{ "name": "PyTorch", "url": "" },
+				{ "name": "Maths", "url": "" }
+			],
+			"links":
+			[
+				"https://github.com/MatteoEleouet/DeepLearningEnFrancais/blob/master/LeDeepLearningUneIntroduction.pdf",
+				"https://github.com/MatteoEleouet/DeepLearningEnFrancais",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/blog/Neural_network.png",
+			"logo": "resources/shapes/projects/Neural_network.svg",
+			"categories": ["Blog post"]
+		},
+
+		{
+			"date": 2023,
 			"type": "Machine Learning",
 			"title": "Un GAN sur le dataset MNIST",
 			"description": "Petit code sur le dataset MNIST avec un simple GAN avec le framework PyTorch.",
@@ -21,27 +43,6 @@
 			"image": "resources/images/projects/2D_fractals_generator.png",
 			"logo": "resources/shapes/projects/man_brain_nn.svg",
 			"categories": ["Machine Learning"]
-		},
-		{
-			"date": 2023,
-			"type": "Blog post",
-			"title": "Résolution de 2023",
-			"description": "Voici mes résolution pour l'année 2023, je vous souhaite à tous une bonne année !",
-			"tags":
-			[
-				{ "name": "Notion", "url": "" },
-				{ "name": "Blog", "url": "" }
-			],
-			"links":
-			[
-				"https://matteoeleouet.notion.site/R-solution-de-2023-91001b8ad05c44d4bc90f20d3d4219c5",
-				"none",
-				"none"
-			],
-			"video": "none",
-			"image": "resources/images/blog/2023.png",
-			"logo": "resources/shapes/projects/goal.svg",
-			"categories": ["Blog post"]
 		}
 	]
 }
