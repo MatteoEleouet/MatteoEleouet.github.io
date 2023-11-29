@@ -26,25 +26,9 @@
 					"link": "https://en.wikipedia.org/wiki/R_(programming_language)"
 				},
 				{
-					"name": "GitHub Actions",
-					"logo": "resources/images/skills/Github_actions.png",
-					"link": "https://github.com/features/actions"
-				},
-				
-				{
-					"name": "Kubernetes",
-					"logo": "resources/shapes/skills/Kubernetes.svg",
-					"link": "https://kubernetes.io/fr/"
-				},
-				{
 					"name": "Docker",
 					"logo": "resources/shapes/skills/Docker.svg",
 					"link": "https://www.docker.com/"
-				},
-				{
-					"name": "CMake",
-					"logo": "resources/shapes/skills/CMake.svg",
-					"link": "https://cmake.org/"
 				},
 				{
 					"name": "Git",
