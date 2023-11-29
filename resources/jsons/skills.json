@@ -44,6 +44,11 @@
 					"name": "SQL",
 					"logo": "resources/shapes/skills/Sql.svg",
 					"link": "https://selenium-python.readthedocs.io/"
+				},
+				{
+					"name": "Neo4J (NoSQL)",
+					"logo": "resources/images/skills/Neo4j.png",
+					"link": ""
 				}
 			]
 		},
@@ -175,29 +180,13 @@
 			]
 		},
 		{
-			"name" : "MLOps",
-			"skills" :
-			[
-				{
-					"name": "AWS",
-					"logo": "resources/shapes/skills/Theory.svg",
-					"link": "https://github.com/angeluriot/Neural_network"
-				},
-				{
-					"name": "Neo4J (NoSQL)",
-					"logo": "resources/images/skills/Neo4j.png",
-					"link": "https://github.com/angeluriot/Neural_network"
-				}
-			]
-		},
-		{
 			"name" : "Other",
 			"skills" :
 			[
 				{
 					"name": "Cambridge English test",
-					"logo": "resources/shapes/skills/Theory.svg",
-					"link": "https://github.com/angeluriot/Neural_network"
+					"logo": "resources/shapes/skills/englishflag.svg",
+					"link": "https://github.com/MatteoEleouet/MatteoEleouet.github.io/blob/main/resources/pdf/Matt%C3%A9o_El%C3%A9ouet_cambridge1_2.pdf"
 				}
 			]
 		}
