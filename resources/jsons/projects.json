@@ -5,7 +5,7 @@
 			"date": 2023,
 			"type": "Blog post",
 			"title": "Le Deep Learning une introduction",
-			"description": "Mon eBook sur le Deep Learning, en cours d'écriture, vous pouvez le début de son avancement disponible sur GitHub et téléchargeable en PDF.",
+			"description": "Mon eBook sur le Deep Learning, en cours d'écriture, vous pouvez le début de son avancement disponible sur GitHub et téléchargeable en PDF. Les 100 premières pages sont disponibles.",
 			"tags":
 			[
 				{ "name": "PyTorch", "url": "" },
@@ -21,6 +21,50 @@
 			"image": "resources/images/blog/Neural_network.png",
 			"logo": "resources/shapes/projects/Neural_network.svg",
 			"categories": ["Blog post"]
+		},
+
+		{
+			"date": 2023,
+			"type": "Machine Learning",
+			"title": "Bayesian Neural Networks with Uncertainty measure",
+			"description": "This project implements a Bayesian approach to neural network classification on the MNIST dataset. By incorporating weight uncertainty into neural networks, we enable the model to express uncertainty in its predictions, providing a more nuanced understanding of its decision-making process.",
+			"tags":
+			[
+				{ "name": "PyTorch", "url": "" },
+				{ "name": "Bayesian", "url": "" }
+			],
+			"links":
+			[
+				"https://github.com/MatteoEleouet/BayesNN_Uncertainty",
+				"https://github.com/MatteoEleouet/BayesNN_Uncertainty",
+				"none"
+			],
+			"video": "none",
+			"image": "resources/images/projects/bnn.png",
+			"logo": "resources/shapes/projects/Bayes_icon.svg",
+			"categories": ["Machine Learning"]
+		},
+
+		{
+			"date": 2023,
+			"type": "Machine Learning",
+			"title": "Deep Dream in PyTorch",
+			"description": "This project showcases the application of the DeepDream algorithm using different convolutional neural networks (CNNs). The DeepDream algorithm, originally developed by researchers at Google, manipulates the features learned by a neural network to create dream-like, surreal images. This project applies DeepDream to a single input image using three different models: VGG19, Vision Transformer (ViT), and InceptionV3. The transformations at each iteration are compiled into videos to visualize the evolution of the dream-like features.",
+			"tags":
+			[
+				{ "name": "PyTorch", "url": "" },
+				{ "name": "Bayesian", "url": "" }
+			],
+			"links":
+			[
+				"https://github.com/MatteoEleouet/DeepDream",
+				"https://github.com/MatteoEleouet/DeepDream",
+				"none"
+			],
+			"video": "resources/videos/projects/deepdream_paris02.mp4",
+			"image": "resources/images/projects/bnn.png",
+			"logo": "resources/shapes/projects/moon.svg",
+			"categories": ["Machine Learning"]
 		},
 
 		{
