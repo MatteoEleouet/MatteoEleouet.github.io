@@ -5,7 +5,7 @@
 			"date": 2023,
 			"type": "Blog post",
 			"title": "Le Deep Learning une introduction",
-			"description": "Mon eBook sur le Deep Learning, en cours d'écriture, vous pouvez le début de son avancement disponible sur GitHub et téléchargeable en PDF. Les 100 premières pages sont disponibles.",
+			"description": "Mon eBook sur le Deep Learning, en cours d'écriture, vous pouvez le début de son avancement disponible sur GitHub et téléchargeable en PDF. Les 125 premières pages sont disponibles.",
 			"tags":
 			[
 				{ "name": "PyTorch", "url": "" },
